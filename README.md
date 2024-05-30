@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Keresztes Tamás
-- 👀 I’m interested in Python AI Development
+- 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning engineer IT specialist in University
 - 📫 Contact via email: keresztes.tamas2001@icloud.com
 <!---
